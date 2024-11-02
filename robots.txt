@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://icaloige.github.io/ElC/sitemap_index.txt
+Sitemap: https://icaloige.github.io/ITW/sitemap_index.txt
+Sitemap: https://icaloige.github.io/NWm/sitemap_index.txt
+Sitemap: https://icaloige.github.io/qbI/sitemap_index.txt
